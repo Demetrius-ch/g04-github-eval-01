@@ -1,1 +1,1 @@
-cosole.log('Module Github -Groupe 04')
+console.log('Module Github -Groupe 04')
